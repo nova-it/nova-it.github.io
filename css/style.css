@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+}
+
+header {
+    background: url("../images/header-background.jpg") top center no-repeat;
+    width: 100%;
+    background-size: cover;
+    margin-bottom: 4rem;
+    height: 24rem;
+    padding-top:10.2rem;
+}
